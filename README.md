@@ -26,8 +26,8 @@ instructions, and notes on what I learned.
 ## About me
 
 Aspiring AppSec engineer building a portfolio in public.
-- LinkedIn: [<your link>](https://www.linkedin.com/in/ebube-nwoke/)
-- Contact: [<your link>](ebubemoses235@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/ebube-nwoke/
+- Contact: ebubemoses235@gmail.com
 
 ## License
 

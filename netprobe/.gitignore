@@ -1,0 +1,16 @@
+# Ignore the environment variables file
+.env
+
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+
+# Ignore all files ending in .env (like .env.local, .env.development)
+*.env
+
+# Ignore a specific folder (e.g., node_modules)
+node_modules/
+
+# Ignore a specific file inside a folder
+config/secrets.json
